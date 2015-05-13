@@ -1,0 +1,61 @@
+body {
+		font-family: "Open Sans", "Helvetica Neue", sans-serif;
+		font-size: 1em;
+		text-align: center;
+		width:50%;
+		margin: auto;
+}
+section ul {
+		font-family: "Open Sans", "Helvetica Neue", sans-serif;
+		font-size: 1em;
+		text-align: center;
+		width:50%;
+		margin: auto;
+}
+
+h1 {
+		font-family: "Arial";
+		font-size: 1em;
+		text-align: center;
+		width:50%;
+		margin: auto;
+		padding-top: 10px;
+}
+#top-banner {
+	background-image: url('himalayas.jpg');
+	background-size: cover;
+	height: 10em;
+	width: 49em;
+	background-repeat: no-repeat;
+	padding-top: 20em;
+	
+}
+#top-banner p {
+	color: white;
+	font-size: 2em;
+	font-family: Arial;
+}
+
+#navigation ul{
+	height: 25px;
+	width:1000px;
+	padding:0;
+	list-style-type: none;
+}
+#navigation li {
+	display: block;
+}
+#navigation li{
+	height: 25px;
+	width: 130px;
+	padding: 8px; 0;
+	float: left;
+	background-color: #334C80;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+}
+#navigation li a{
+	text-decoration: none;
+	color:white;
+}
